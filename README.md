@@ -14,7 +14,7 @@ My personal portfolio website built with HTML, CSS (Tailwind), and JavaScript �
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](https://clever-daffodil-afefc3.netlify.app/)
+🔗 [View Portfolio](https://my-portfolio-gilt-eight-12.vercel.app/)
 
 ---
 
